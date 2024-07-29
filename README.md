@@ -36,5 +36,16 @@ Here’s a quick rundown of the building process that I went through:
 
 ## The Result
 
-After careful assembly and tuning, the Tesla coil produced some impressive sparks! It's mesmerizing to watch and definitely a crowd-pleaser. Here’s a sneak peek of the arching plasma lighting up a light bulb I hold in my hand: https://github.com/user-attachments/assets/af36c75e-ecf4-4c07-a1b6-c9b6e64979cb
+After careful assembly and tuning, the Tesla coil produced some impressive sparks! It's mesmerizing to watch and definitely a crowd-pleaser. 
+
+These are some photos of the indiviual compenents: 
+
+This is the primary and secondary coil with the top load: <img width="510" alt="Screenshot 2024-07-28 at 6 37 58 PM" src="https://github.com/user-attachments/assets/cd40a4b6-b086-4b75-be3b-d9b583e49c4f">
+
+This is the spark gap and the terry filter: <img width="493" alt="Screenshot 2024-07-28 at 6 37 41 PM" src="https://github.com/user-attachments/assets/850bcf18-7a66-4eb8-a144-f08e2b2fc741">
+
+This is it all put together: <img width="892" alt="Screenshot 2024-07-28 at 6 39 40 PM" src="https://github.com/user-attachments/assets/702b2d4a-acb0-4757-8d99-0503aaa935b9">
+
+
+Here’s a sneak peek of the arching plasma lighting up a light bulb I hold in my hand: https://github.com/user-attachments/assets/af36c75e-ecf4-4c07-a1b6-c9b6e64979cb
 
