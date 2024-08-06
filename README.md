@@ -1,12 +1,5 @@
-# ⚡️ Homemade Tesla Coil ⚡️
+# Homemade Tesla Coil ⚡️
 
-Hey everyone!
-
-I wanted to post a project that I worked a few years ago. This is my Homemade Tesla Coil! 
-
-## Project Overview
-
-This project was not only a fun build but also a great learning experience about high-frequency alternating currents.
 
 ### Key Components
 
