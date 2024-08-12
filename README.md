@@ -3,7 +3,7 @@
 
 ### Key Components
 
-- Neon Sign Transformer (NST)**: Steps up 120V AC to about 10kV.
+- Neon Sign Transformer (NST): Steps up 120V AC to about 10kV.
 - Six-Pack Capacitor: Made from glass beverage bottles, similar to the champagne bottles Tesla used.
 - Primary and Secondary Coils: Air-core, dual-resonant transformer design.
 - Spark Gap: The spark gap acts like a switch. The air in the gap is an insulator - until the voltage on the capacitor connected to the gap rises high enough to make a spark. 
