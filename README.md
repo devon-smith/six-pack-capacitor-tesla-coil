@@ -40,5 +40,7 @@ This is the spark gap and the terry filter: <img width="493" alt="Screenshot 202
 This is it all put together: <img width="892" alt="Screenshot 2024-07-28 at 6 39 40 PM" src="https://github.com/user-attachments/assets/702b2d4a-acb0-4757-8d99-0503aaa935b9">
 
 
-Here’s a sneak peek of the arching plasma lighting up a light bulb I hold in my hand: https://github.com/user-attachments/assets/af36c75e-ecf4-4c07-a1b6-c9b6e64979cb
+
+
+Here’s a video sneak peek of the arching plasma lighting up a light bulb I hold in my hand: [![Tesla Coil in Action](https://github.com/user-attachments/assets/af36c75e-ecf4-4c07-a1b6-c9b6e64979cb "Tesla Coil Video")](https://github.com/user-attachments/assets/af36c75e-ecf4-4c07-a1b6-c9b6e64979cb)
 
