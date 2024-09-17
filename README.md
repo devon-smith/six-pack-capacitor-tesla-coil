@@ -1,4 +1,4 @@
-# Homemade Tesla Coil ⚡️
+# Homemade 6-Pack Tesla Coil ⚡️
 
 
 ### Key Components
