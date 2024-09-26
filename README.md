@@ -6,7 +6,7 @@
 - Neon Sign Transformer (NST): Steps up 120V AC to about 10kV.
 - Six-Pack Capacitor: Made from pouring salt water in 6 glass beverage bottles and topped it off with mineral oil, similar to the champagne bottles Tesla used.
 - Primary and Secondary Coils: Air-core, dual-resonant transformer design.
-- Spark Gap: The spark gap acts like a switch. The air in the gap is an insulator - until the voltage on the capacitor connected to the gap rises high enough to make a spark.
+- Spark Gap: The spark gap acts like a switch for the Tesla Coil. The air in the gap is an insulator - until the voltage on the capacitor connected to the gap rises high enough to make a spark.
 - Terry Filter: The Terry Filter protects the NST from any RFI getting into the NST and also any 'over voltage' situation that may occur.
 
 ## Safety First!
