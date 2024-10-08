@@ -24,7 +24,7 @@ Here’s a quick rundown of the building process that I went through:
 1. Wind the Secondary Coil: Wrapped a PVC pipe with copper magnet wire, ensuring smooth, close winding.
 2. Install the Secondary Coil Terminals: Connected the ends of the wire to secure terminals.
 3. Build the Top-Load: Created a toroid shape to act as the top-load capacitor.
-4. Construct the Six-Pack Capacitor**: Used glass bottles filled with saltwater as the capacitor.
+4. Construct the Six-Pack Capacitor: Used glass bottles filled with saltwater as the capacitor.
 5. Build the Primary Coil: Made from copper tubing, carefully spaced around the secondary coil.
 6. Assemble and Tune: Put all components together and tuned the coil for optimal performance.
 
