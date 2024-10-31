@@ -30,7 +30,7 @@ Here’s a quick summary of the building process that I went through:
 
 ## The Result
 
-After careful assembly and calibration, the tesla coil produced some impressive sparks off of the top load! It's mesmerizing to watch and definitely a crowd-pleaser. 
+After careful assembly and calibration, the tesla coil produced some impressive sparks off of the top load! 
 
 These are some photos of the indiviual compenents: 
 
