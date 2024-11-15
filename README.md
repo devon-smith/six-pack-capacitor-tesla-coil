@@ -28,7 +28,7 @@ Here’s a quick summary of the building process that I went through:
 5. Build the Primary Coil: Made from copper tubing, carefully spaced around the secondary coil.
 6. Assemble and Tune: Put all components together and tuned the coil for optimal performance.
 
-## The Result
+## The Results
 
 After careful assembly and calibration, the tesla coil produced some impressive sparks off of the top load! 
 
