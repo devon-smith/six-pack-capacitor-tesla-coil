@@ -26,7 +26,7 @@ Here’s a quick summary of the building process that I went through:
 3. Build the Top-Load: Created a toroid shape to act as the top-load capacitor.
 4. Construct the Six-Pack Capacitor: Used glass bottles filled with saltwater as the capacitor.
 5. Build the Primary Coil: Made from copper tubing, carefully spaced around the secondary coil.
-6. Assemble and Tune: Put all components together and tuned the coil for optimal performance.
+6. Assemble and Tuning: Put all components together and tuned the coil for optimal performance.
 
 ## The Results
 
