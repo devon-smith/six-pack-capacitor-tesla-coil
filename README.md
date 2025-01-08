@@ -20,7 +20,7 @@ Building and operating a Tesla coil comes with significant safety risks. Always 
 
 Here’s a quick summary of the building steps that I went through:
 
-1. Wind the Secondary Coil: Wrapped a PVC pipe with very high gauge copper magnet wire, ensuring smooth, close winding (any cross wiring can cause in the coil being broken).
+1. Wind the Secondary Coil: Wrapped a PVC pipe with very high gauge copper magnet wire, ensuring smooth, close winding (any overlap in wiring can cause in the coil being broken).
 2. Install the Secondary Coil Terminals: Connected the ends of the wire to secure terminals.
 3. Build the Top-Load: Created a toroid shape to act as the top-load the plasma will discharge from here.
 4. Construct the Six-Pack Capacitor: Used glass bottles filled with saltwater as the capacitor.
