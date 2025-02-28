@@ -9,7 +9,7 @@
 - Spark Gap: The spark gap acts like a switch for the Tesla Coil. The air in the gap is an insulator - until the voltage on the capacitor connected to the gap rises high enough to make a spark and bridge the gap.
 - Terry Filter: The Terry Filter protects the neon sign transformer from any RFI getting into the NST and also any 'over voltage' situation that would harm the coil.
 
-## Safety First!
+## Safety First
 
 Building and operating a Tesla coil comes with significant safety risks. Always make sure that:
 - The capacitor is discharged before touching any of the parts.
