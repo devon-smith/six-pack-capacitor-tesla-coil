@@ -14,7 +14,7 @@
 Building and operating a Tesla coil comes with significant safety risks. Always make sure that:
 - The capacitor is discharged before touching any of the parts.
 - The coil is operated far from flammable materials and sensitive electronics.
-- You use proper eye.
+- Use proper eye wear.
 - The machine should operate in a well-ventilated area (ideally outside)
 ## Build Steps
 
