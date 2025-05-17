@@ -11,7 +11,7 @@
 
 ## Safety 
 
-Building and operating a Tesla coil comes with safety risk. Always make sure that:
+Building and operating a Tesla coil comes with safety risk - Always make sure that:
 - The capacitor is discharged before touching any of the parts.
 - The coil is operated far from flammable materials and sensitive electronics.
 - Use proper eye wear.
